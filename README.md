@@ -14,7 +14,11 @@
 
 # GitHub Stats
 
+<div align="center">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramlaburhan&show_icons=true&theme=transparent)
+
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ramlaburhan&color=blue" alt="Profile Views">
